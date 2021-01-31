@@ -1,5 +1,5 @@
-This repositaroy is a bunch of random files that Im uising tist for a sample
+This repositaroy will consist of files that I create
 
-- This is abullet pint
+- This is a bullet point
 
 # Headings
